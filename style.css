@@ -1,0 +1,28 @@
+/* Global Styles */
+body {
+  color: #2c122c;
+  font-family: sans-serif;
+  background-color: #bad4e8;
+
+}
+ h1{
+  color: #2d044d;
+ }
+ header {
+  padding: 2rem;
+
+  border-bottom: 2px solid #7c99be;
+
+}
+
+main {
+  padding: 2rem;
+}
+
+section {
+  margin-bottom: 2rem;
+}
+
+img {
+  border-radius: 12px;
+}
